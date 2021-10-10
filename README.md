@@ -5,4 +5,4 @@
 화살표 좌, 우로 이동
 
 ## 게임 화면
-![screenshot]('./figure.png')
+![screenshot]('figure.png')
